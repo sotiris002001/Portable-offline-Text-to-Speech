@@ -28,4 +28,4 @@ dependencies.**
 
 ```bash
 chmod +x speak.sh
-./speak.sh -v el "Hello World"
+./speak.sh -v en "Hello World"
